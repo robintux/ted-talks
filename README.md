@@ -22,6 +22,12 @@
 
 ---
 
+### TED@NYC 2014
+
+- Dustin Yellin: [A journey through the mind of an artist](http://www.ted.com/talks/dustin_yellin_a_journey_through_the_mind_of_an_artist)
+
+---
+
 ### TEDxBeaconStreet 2014
 
 - Michael Rubinstein: [See invisible motion, hear silent sounds](http://www.ted.com/talks/michael_rubinstein_see_invisible_motion_hear_silent_sounds_cool_creepy_we_can_t_decide)
