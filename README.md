@@ -10,6 +10,8 @@
 
 - Greg Gage: [How to control someone else's arm with your brain](https://www.ted.com/talks/greg_gage_how_to_control_someone_else_s_arm_with_your_brain)
 
+- Alan Eustace: [I leapt from the stratosphere. Here's how I did it](http://www.ted.com/talks/alan_eustace_i_leapt_from_the_stratosphere_here_s_how_i_did_it)
+
 ---
 
 ### TED2014
