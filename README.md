@@ -208,6 +208,8 @@
 
 - Pranav Mistry: [The thrilling potential of SixthSense technology](https://www.ted.com/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology#t-568866)
 
+- Alexis Ohanian: [How to make a splash in social media](http://www.ted.com/talks/alexis_ohanian_how_to_make_a_splash_in_social_media)
+
 ---
 
 ### TED2008
