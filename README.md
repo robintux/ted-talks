@@ -20,6 +20,12 @@
 
 ---
 
+### TEDxPenn 2015
+
+- Vijay Kumar: [The future of flying robots](https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots)
+
+---
+
 ### TED2014
 
 - Joi Ito: [Want to innovate? Become a "now-ist"](http://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist)
