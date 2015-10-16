@@ -60,6 +60,8 @@
 
 - Raffaello D'Andrea: [The astounding athletic power of quadcopters](https://www.ted.com/talks/raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters)
 
+- Apollo Robbins: [The art of misdirection](https://www.ted.com/talks/apollo_robbins_the_art_of_misdirection)
+
 ---
 
 ### TEDSalon NY2013
