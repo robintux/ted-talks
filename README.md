@@ -130,6 +130,8 @@
 
 - Graham Hill: [Less stuff, more happiness](http://www.ted.com/talks/graham_hill_less_stuff_more_happiness)
 
+- Shea Hembrey: [How I became 100 artists](http://www.ted.com/talks/shea_hembrey_how_i_became_100_artists)
+
 ---
 
 ### TEDGlobal 2011
