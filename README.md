@@ -234,6 +234,8 @@
 
 - Johnny Lee: [Free or cheap Wii Remote hacks](https://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks)
 
+- Robert Lang: [The math and magic of origami](http://www.ted.com/talks/robert_lang_folds_way_new_origami)
+
 ---
 
 ### TED2007
