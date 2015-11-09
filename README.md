@@ -14,6 +14,12 @@
 
 ---
 
+### TED Fellows Retreat 2015
+
+- Cesar Harada: [How I teach kids to love science](http://www.ted.com/talks/cesar_harada_how_i_teach_kids_to_love_science)
+
+---
+
 ### TEDxUF 2015
 
 - Mac Stone: [Stunning photos of the endangered Everglades](http://www.ted.com/talks/mac_stone_stunning_photos_of_the_endangered_everglades)
