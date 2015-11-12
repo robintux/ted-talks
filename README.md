@@ -98,6 +98,8 @@
 
 - Steven Addis: [A father-daughter bond, one photo at a time](https://www.ted.com/talks/steven_addis_a_father_daughter_bond_one_photo_at_a_time)
 
+- JR: [One year of turning the world inside out](https://www.ted.com/talks/jr_one_year_of_turning_the_world_inside_out)
+
 ---
 
 ### TEDGlobal 2012
