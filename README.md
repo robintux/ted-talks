@@ -14,6 +14,12 @@
 
 ---
 
+### TED@IBM 2015
+
+- Josh Luber: [The secret sneaker market — and why it matters](http://www.ted.com/talks/josh_luber_the_secret_sneaker_market_and_why_it_matters)
+
+---
+
 ### TED Fellows Retreat 2015
 
 - Cesar Harada: [How I teach kids to love science](http://www.ted.com/talks/cesar_harada_how_i_teach_kids_to_love_science)
