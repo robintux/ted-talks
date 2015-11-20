@@ -40,8 +40,7 @@
 
 ### Mission Blue II
 
-Anote Tong: [My country will be underwater soon — unless we work together](Anote Tong:
-My country will be underwater soon — unless we work together)
+Anote Tong: [My country will be underwater soon — unless we work together](http://www.ted.com/talks/anote_tong_my_country_will_be_underwater_soon_unless_we_work_together)
 
 ---
 
