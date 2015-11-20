@@ -38,6 +38,13 @@
 
 ---
 
+### Mission Blue II
+
+Anote Tong: [My country will be underwater soon — unless we work together](Anote Tong:
+My country will be underwater soon — unless we work together)
+
+---
+
 ### TED2014
 
 - Joi Ito: [Want to innovate? Become a "now-ist"](http://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist)
