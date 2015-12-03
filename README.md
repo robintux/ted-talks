@@ -12,6 +12,8 @@
 
 - Alan Eustace: [I leapt from the stratosphere. Here's how I did it](http://www.ted.com/talks/alan_eustace_i_leapt_from_the_stratosphere_here_s_how_i_did_it)
 
+- Marina Abramović: [An art made of trust, vulnerability and connection](http://www.ted.com/talks/marina_abramovic_an_art_made_of_trust_vulnerability_and_connection)
+
 ---
 
 ### TED@IBM 2015
