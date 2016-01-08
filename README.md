@@ -128,6 +128,8 @@ Anote Tong: [My country will be underwater soon — unless we work together](htt
 
 - Daphne Koller: [What we're learning from online education](http://www.ted.com/talks/daphne_koller_what_we_re_learning_from_online_education)
 
+- Beau Lotto + Amy O'Toole: [Science is for everyone, kids included](https://www.ted.com/talks/beau_lotto_amy_o_toole_science_is_for_everyone_kids_included)
+
 ---
 
 ### TEDxTokyo 2012
