@@ -1,5 +1,11 @@
 ## A collection of awesome TED Talks
 
+### TED2016
+
+- Linus Torvalds: [The mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux)
+
+---
+
 ### TED2015
 
 - Dame Stephanie Shirley: [Why do ambitious women have flat heads?](https://www.ted.com/talks/dame_stephanie_shirley_why_do_ambitious_women_have_flat_heads)
